@@ -1,0 +1,13 @@
+h1 {
+    color: brown;
+}
+
+A {
+    color: black;
+    margin: 20px 20px;
+    display: flex;
+}
+
+body {
+    background-color: beige;
+}
