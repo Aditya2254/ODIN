@@ -2,12 +2,27 @@ h1 {
     color: brown;
 }
 
+h3 {
+    color: chocolate;
+}
+
 A {
     color: black;
     margin: 20px 20px;
-    display: flex;
+    display: inline-block;
 }
 
 body {
     background-color: beige;
+}
+
+.recipe {
+    background-color:cadetblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+}
+
+.round-img {
+    border-radius: 50%;
+    border-color: cyan;
 }
